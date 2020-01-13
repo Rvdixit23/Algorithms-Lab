@@ -1,6 +1,6 @@
 <img src="pesLogo.jpg">
 <hr>
-# Algorithms-Lab
+<h1>Algorithms-Lab</h1>
 <hr>
-##Solutions to Algorithms Lab
-###"Bestest Kode Evaar" - <a href = "github.com/ManuMBhat">Banu Mutt</a>
+<h2>Solutions to Algorithms Lab</h2>
+<h3>"Bestest Kode Evaar" - <a href = "github.com/ManuMBhat">Banu Mutt</a></h3>
