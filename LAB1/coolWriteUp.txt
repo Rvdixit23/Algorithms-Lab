@@ -1,0 +1,8 @@
+Sequential Search
+Theta(n)
+When searching for the first occurrence,
+the index is returned as soon as it is found.
+When searching for the last occurrence,
+the array is traversed from the back.
+If the element is found then the index is returned,
+to prevent execution of redundant code.
