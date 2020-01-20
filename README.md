@@ -1,3 +1,5 @@
+<h1>Here's all you need to know</h1>
+<img src="description.jpg">
 <img src="pesLogo.jpg">
 <hr>
 <h1>Algorithms-Lab</h1>
